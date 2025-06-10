@@ -1,15 +1,56 @@
-- 👋 Hi, I’m @Rahul Gupta  
-- 👀 I’m interested in Web Development, Competitive Programming, and I’m an ML enthusiast  
-- 🌱 I’m currently learning Full-Stack Web Development (MERN Stack) and diving deeper into Data Structures & Algorithms  
-- 💞️ I’m looking to collaborate on open-source projects, web apps, and innovative ML-based tools  
-- 📫 How to reach me:  
-  - Email: rahulgupta.dev@gmail.com  
-  - LinkedIn: [linkedin.com/in/rahulgupta-dev](https://www.linkedin.com/in/rahul-gupta-17abb9325/)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I can explain complex tech in memes—and I believe debugging is just solving mysteries with logic 😄  
 
+---
+
+### 🧩 Skills & Interests
+
+- 💻 **Web Development:** Frontend, Backend, RESTful APIs, MERN stack
+- 🧠 **Machine Learning:** Exploring cool ML-based tools & AI-powered projects
+- 🏹 **Competitive Programming:** Solving puzzles one bug at a time
+- 🔧 **Tech Stack:** JavaScript | React | Node.js | MongoDB | Express | Python | C++
+
+---
+
+### 🗺️ Current Quest
+
+> 📘 Learning Full-Stack Development (MERN)  
+> 🛡️ Mastering Data Structures & Algorithms  
+> 🛠️ Building Innovative Projects with Clean Code & Cool UX  
+
+---
+
+### 🤝 Looking For Party Members
+
+- 🧑‍💻 Open-source Collaborators
+- 🕸️ Web App Builders
+- 🤖 ML Tool Tinkerers
+
+> _"Join me on a mission to build, break, and rebuild the web—better!"_
+
+---
+
+### 📬 Reach the Hero
+
+- 📧 **Email:** rahulgupta.dev@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/rahulgupta-dev](https://www.linkedin.com/in/rahul-gupta-17abb9325/)  
+- 🗨️ Let’s connect, code, and conquer 🚀
+
+---
+
+### ⚡ Fun Fact
+
+> I make tech memes, explain bugs like Sherlock, and believe every `console.log()` is a clue to greatness 🕵️‍♂️
+
+---
+
+### 🧠 Bonus Achievements
+
+- ✅ `git commit -m "Consistency is power"`  
+- 🧩 `debugging !== frustration; debugging == mystery-solving`  
+- 🏆 Always leveling up one repo at a time!
+
+---
 
 <!---
-RKG01/RKG01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+RKG01/RKG01 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+Click the Preview link to check it out! 
 --->
