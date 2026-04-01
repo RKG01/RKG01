@@ -28,14 +28,6 @@
 
 ---
 
-### 📬 Reach the Hero
-
-- 📧 **Email:** rahulgupta.dev@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/rahulgupta-dev](https://www.linkedin.com/in/rahul-gupta-17abb9325/)  
-- 🗨️ Let’s connect, code, and conquer 🚀
-
----
-
 ### ⚡ Fun Fact
 
 > I make tech memes, explain bugs like Sherlock, and believe every `console.log()` is a clue to greatness 🕵️‍♂️
