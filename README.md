@@ -1,5 +1,4 @@
-<h1 align="center">Rahul Gupta</h1>
-<h3 align="center">Java Full Stack Developer | Backend Engineer | AI Enthusiast</h3>
+<h2 align="center">Java Full Stack Developer | Backend Engineer | AI Enthusiast</h2>
 
 <p align="center">
 Building scalable backend systems with Java & Spring Boot while creating modern full-stack applications.
@@ -9,7 +8,6 @@ Building scalable backend systems with Java & Spring Boot while creating modern 
 
 ## About Me
 
-- Computer Science undergraduate at IIIT Naya Raipur
 - Passionate about Backend Engineering & Distributed Systems
 - Solved **1300+ LeetCode** problems
 - Solved **600+ Codeforces** problems
