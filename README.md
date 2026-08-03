@@ -1,4 +1,4 @@
-<h2 align="center">Java Full Stack Developer | Backend Engineer | AI Enthusiast</h2>
+<h2 align="center">Full Stack Developer | Backend Engineer | AI Enthusiast</h2>
 
 <p align="center">
 Building scalable backend systems with Java & Spring Boot while creating modern full-stack applications.
@@ -59,15 +59,6 @@ Building scalable backend systems with Java & Spring Boot while creating modern 
 
 ---
 
-## Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| AI Learning Platform | AI-powered personalized learning platform | React, Node.js, MongoDB |
-| Jeevan | Animal welfare platform with AI assistance | Next.js, MongoDB, JWT |
-| AI SaaS Applications | Production-ready SaaS applications | Spring Boot, PostgreSQL |
-
----
 
 ## GitHub Analytics
 
